@@ -1,0 +1,35 @@
+.height{
+    margin-top: 29px;
+}
+.main-background{
+    background-color: #e4b8b8;
+
+}
+
+.container{
+    width: 80%;
+    
+}
+
+hr{
+    width: 100%;
+    height: 7px;
+    margin-top: -5px;
+    background-color: rgb(97, 15, 15);
+}
+
+
+.font{
+
+    text-align: right;
+}
+
+.col-md-9 img{
+    height: 441px;
+    width: 100%;
+}
+
+.images img{
+    height: 250px;
+    width: 100%;
+}

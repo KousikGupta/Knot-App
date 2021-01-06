@@ -1,0 +1,65 @@
+<nav>
+    <div class="navbar navbar-expand-sm bg-dark navbar-dark">
+
+        
+        <div class="logo">
+            <a class="navbar-brand" href="#">Logo</a>
+        </div>
+        
+        
+        <div class="search">
+          <div>
+            <fa-icon [icon]="faSearch" style="font-size: 27px; padding-right: 11px;"></fa-icon>
+          </div>
+          <div class="searchbox">
+              <input class="form-control mr-sm-2 searchbox" type="text" placeholder="Search">
+          </div>
+        </div>
+        
+          <div class="navbar navbar-expand-sm bg-dark">
+
+            <ul class="navbar-nav header">
+              <li class="nav-item">
+                <a class="nav-link" href="#">POST A LOOK</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">LOGIN / REGISTER</a>
+              </li>
+            </ul>
+          
+        </div>
+
+
+        <div class="navbar navbar-expand-sm bg-dark downhead">
+
+          <div class="header2">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="#">FLAUNT</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">READ</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">WATCH</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">SHOP</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">STYLE : WEDDINGS</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">CHARITY AUCTION</a>
+              </li>
+            </ul>
+          </div>
+            
+          
+        </div>
+
+
+    </div>
+
+    
+</nav>

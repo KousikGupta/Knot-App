@@ -1,0 +1,47 @@
+
+ .searchbox::placeholder {
+     padding-left: 5px;
+    font-size: small;
+    font-weight: 700;
+  }
+
+ .searchbox{
+    outline: none;
+     border: 1px;
+    width: 150px;
+    height: 25px;
+}
+ .top-header{
+    font-size: smaller;
+ }
+ .top-bar ul li{
+     display: inline;
+ }
+
+ .navbar-collapse ul li{
+     padding: 20px;
+ }
+ .nav-link{
+    font-weight: bold;
+
+ }
+ .first-hr{
+    height: 6px;
+    padding: 0px;
+    margin: 0px;
+    background: rgb(173, 22, 52);
+}
+
+.custom-navbar{
+    padding: 0;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.header-background{
+    font-family: 'Montserrat', sans-serif;
+    background: -webkit-linear-gradient(50deg,#ff6ec4,#7873f5)!important;
+    padding: 0;
+    margin: 0;
+       
+}

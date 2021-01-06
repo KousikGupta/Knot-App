@@ -1,0 +1,217 @@
+.container{
+    width: 80%;
+}
+
+
+.padding{
+    margin-top: 40px;
+}
+
+
+hr{
+    width: 100%;
+    height: 7px;
+    margin-top: -5px;
+    background-color: rgb(97, 15, 15);
+}
+
+
+.font{
+    margin-top: 37px;
+    text-align: right;
+}
+
+.trend{
+    margin-top: 29px;
+
+}
+
+.w-100{
+    padding: 5px;
+}
+
+.cl2{
+    margin-left: -19px;
+}
+
+.morelooks{
+    z-index: 7;
+    position: absolute;
+    /* top: 50px; */
+    margin-top: -50px;
+    left: 91.4%;
+}
+
+.morelooks:hover{
+    cursor: pointer;
+}
+
+
+.imgmore{
+    z-index: 1;
+}
+
+.main-background{
+    padding:0;
+    margin: 0;
+    background-color: #e4b8b8;
+}
+
+
+
+
+
+
+
+.hr2{
+    margin-bottom: 30px;
+}
+
+
+.font2{
+    margin-top: 0px;
+    text-align: left;
+}
+
+em{
+    margin-left: 4px;
+}
+
+
+
+.hr3{
+    margin-top: 30px;
+}
+
+
+.imgborder{
+    border: 5px solid rgb(97, 15, 15);
+}
+
+
+
+.image1{
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+
+
+.shop{
+    /* border: solid 1px crimson; */
+    text-align: center;
+}
+
+.shop>.h6{
+    padding-top: 17px;
+}
+
+.shop>.h1{
+    margin-top: -9px;
+    margin-bottom: 30px;
+}
+
+.hrshop{
+    height: 0.1px;
+    background-color: crimson;
+}
+
+#shopimg1{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom: 14px;
+}
+
+#shopimg2{
+    padding-bottom: 14px;
+}
+
+
+
+#dontmiss{
+    margin-top: 30px;
+}
+
+.card{
+    border-radius: 0%;
+}
+
+
+#dontmiss>p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.card a{
+    text-decoration: none;
+    text-align: left;
+}
+
+.textpadding{
+    font-size: 17px;
+
+}
+
+.caption{
+    margin-top: 100px;
+}
+
+
+.arrow{
+  font-size: 13px;  
+  color: #b9b7b7;
+}
+
+.arrow:hover{
+    cursor: pointer;
+    color: black;
+}
+
+
+
+
+.imgpadding{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+.social{
+    margin-top: 22px;
+    border: 1px solid rgb(165, 30, 30);
+    text-align: center;
+}
+
+
+
+.social hr{
+    height: 0.1px;
+    background-color: rgb(165, 30, 30);
+}
+
+.social .h5{
+    color: white;
+    padding-top: 15px;
+}
+
+.social .h4{
+    color: white;
+    margin-top: -10px;
+    padding-bottom: 22px;
+    font-size: 20px;
+}
+
+.socialicon{
+    padding: 9px 19px;
+}
+
+fa-icon{
+    padding: 13px;
+    font-size: 22px;
+}
